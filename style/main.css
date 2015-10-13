@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gridContainer{
+    display: inline-block;
+    margin: 0 auto;
+    width: 485px;
+    border: 1px solid green;
+    line-height: 0;
+}
+
+.gridCell {
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
