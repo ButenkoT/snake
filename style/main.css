@@ -5,10 +5,9 @@ body{
 }
 
 .gridContainer{
-    display: inline-block;
     margin: 0 auto;
-    width: 485px;
-    border: 1px solid green;
+    margin-top: 20px;
+    width: 480px;
     line-height: 0;
 }
 
